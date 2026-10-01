@@ -65,13 +65,13 @@ const chatMessages = document.getElementById("chatMessages");
 
 const answers = {
     education:
-        "Alex is currently studying Computer Science and is developing skills in programming, web development, databases, and software design.",
+        "Jan is currently studying Computer Science and is developing skills in programming, web development, databases, and software design.",
 
     skills:
-        "Alex's skills include HTML, CSS, JavaScript, Python, Git/GitHub, and basic database management.",
+        "Jan's skills include HTML, CSS, JavaScript, Python, Git/GitHub, and basic database management.",
 
     projects:
-        "Alex has worked on projects such as a Study Planner and a Campus Event Hub, focusing on useful and responsive web applications.",
+        "Jan has worked on projects such as a Study Planner and a Campus Event Hub, focusing on useful and responsive web applications.",
 
     contact:
         "You can contact Alex through alexrivera@example.com or through the social media links in the Contact section."
