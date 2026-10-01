@@ -74,7 +74,7 @@ const answers = {
         "Jan has worked on projects such as a Study Planner and a Campus Event Hub, focusing on useful and responsive web applications.",
 
     contact:
-        "You can contact Alex through alexrivera@example.com or through the social media links in the Contact section."
+        "You can contact Jan through Janemmanuel@example.com or through the social media links in the Contact section."
 };
 
 
