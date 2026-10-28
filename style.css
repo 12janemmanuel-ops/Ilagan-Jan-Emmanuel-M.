@@ -925,4 +925,25 @@ footer a {
         gap: 10px;
         text-align: center;
     }
+
+    
+   
+    #navMenu a i {
+    font-size: 20px;
+    vertical-align: middle;
+    }
+
+    #navMenu a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 14px;
+    transition: color 0.3s ease;
+    }
+
+    #navMenu a:hover {
+    color: #777BB4;
+    }
+
+
 }
